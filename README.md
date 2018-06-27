@@ -1,0 +1,1 @@
+# JS-exercise-while-loop
